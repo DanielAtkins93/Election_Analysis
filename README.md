@@ -11,7 +11,9 @@ In this analysis we are helping Tom, a Colorado board of elections employee, aud
   
   ### - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
    Jefferson: 10.5% (38,855)
+   
    Denver: 82.8% (306,055)
+   
    Arapahoe: 6.7% (24,801)
     
   ### - Which county had the largest number of votes?
