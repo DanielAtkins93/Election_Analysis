@@ -35,6 +35,8 @@ In this analysis we are helping Tom, a Colorado board of elections employee, aud
 
 ## Election-Audit Summary
 
-In summary, our analysis came to two practical uses for this script.
+In summary, our analysis came to two practical uses for this script:
+
   1). The script can be modified to replace "county" with "state" or "city", depending on what level of analysis the user is looking for.
+  
   2). Upon making either of these modifications, the data could be used on a look-forward basis to generate greater voter insight for state and federal elections. Candidates could use this script to target certain areas for campaigning in an attempt to gain potential swing-votes. A further step would be an analysis of these voters and whether or not they are likely to change their vote for a candidate. 
